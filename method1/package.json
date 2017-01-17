@@ -1,0 +1,14 @@
+{
+  "name": "method1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/tape test/**/*.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
+}
